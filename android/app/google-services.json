@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "239775736696",
+    "project_id": "authv2-f7e6b",
+    "storage_bucket": "authv2-f7e6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239775736696:android:0eedafe1e77acf0c561e8d",
+        "android_client_info": {
+          "package_name": "com.loginapp2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADmKJiwi4fdGsdl4-MVE-emXF3DGAL3y0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
